@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>309354370461-puta0p3ot0fmkjp4ejl23onjj6b4d4bb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.309354370461-puta0p3ot0fmkjp4ejl23onjj6b4d4bb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWkL8DXFxeM-ccHwAspZihCCWQF3Hb9UM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>309354370461</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.m.s.zidane.Alamat-Task</string>
+	<key>PROJECT_ID</key>
+	<string>alamattask</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alamattask.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:309354370461:ios:35b4acfe5778cf98</string>
+	<key>DATABASE_URL</key>
+	<string>https://alamattask.firebaseio.com</string>
+</dict>
+</plist>
